@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haritha Mohanavel
+- 👋 Hi, I’m Haritha Mohanavel.
 - 👀 I’m interested in creating visual appealing websites
 -  🌱 I’m currently learning Web development
 - 📫 contacts:
